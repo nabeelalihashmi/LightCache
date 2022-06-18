@@ -1,0 +1,19 @@
+{
+    "name": "nabeelalihashmi/lightcache",
+    "description": "Lightweight Files Based Caching",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "IconicCodes\\LightCache\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nabeel Ali",
+            "email": "mail2nabeelali@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
