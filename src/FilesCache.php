@@ -37,7 +37,6 @@ class FilesCache {
             $parts = explode('.', $filename);
             $list = array_map(function ($part) {
                 return $this->sha($part);
-                $part;
             }, $parts);
             $outputFilename = implode('/', $list) . '.cache';
 

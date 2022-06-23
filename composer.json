@@ -3,6 +3,7 @@
     "description": "Lightweight Files Based Caching",
     "type": "library",
     "license": "MIT",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "IconicCodes\\LightCache\\": "src/"
